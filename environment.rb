@@ -1,4 +1,5 @@
 require 'pry'
+require 'net/http'
 require 'HTTParty'
 require 'json'
 
